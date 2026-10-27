@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy: #062b55;
+  --color-night: #08172c;
+  --color-gold: #cba34f;
+  --color-ivory: #f7f4ec;
+  --font-sans: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Oswald", ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Global defaults only; build page styling with Tailwind utilities. */
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; font-family: var(--font-sans); }
