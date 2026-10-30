@@ -24,6 +24,8 @@ function About() {
           <p className="text-xs font-semibold uppercase tracking-widest text-navy">Nossa localização</p>
           <p className="mt-3 font-display text-2xl font-semibold">São Caetano do Sul</p>
           <p className="mt-2 text-night/70">São Paulo - SP</p>
+          <p className="text-sm">Av. Vital Brasil Filho, 435 - Osvaldo Cruz.</p>
+          <p className="text-sm">09541-130, Brazil</p>
           <a className="mt-6 inline-block font-semibold text-navy transition-colors hover:text-gold" href="#contato">Entre em contato →</a>
         </aside>
       </div>
