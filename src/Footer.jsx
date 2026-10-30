@@ -31,7 +31,7 @@ function Footer() {
                     <h2 className="font-semibold">Contato</h2>
                     <ul className="mt-4 space-y-2 text-sm">
                         <li><a className="hover:text-gold" href="https://wa.me/559980444352">+55 99 8044-4352</a></li>
-                        <li><a className="hover:text-gold" href="mailto:andreapedroso@gmail.com">ANDREAPEDROSO@GMAIL.COM</a></li>
+                        <li><a className="hover:text-gold" href="mailto:andrea_christine@hotmail.com ">ANDREA_CHRISTINE@HOTMAIL.COM</a></li>
                         <li>São Caetano do Sul - SP</li>                    
                     </ul>
                 </div>

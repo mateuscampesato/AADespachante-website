@@ -10,20 +10,20 @@ function Navbar() {
             href="mailto:andreapedroso@gmail.com"
             className="transition-colors hover:text-gold"
           >
-            andreapedroso@gmail.com
+            ANDREA_CHRISTINE@HOTMAIL.COM
           </a>
           <span>São Caetano do Sul, SP</span>
-          <a className="hover:text-gold" href="https://wa.me/559980444352">
-            Andrea: +55 99 8044-4352
+          <a className="hover:text-gold" href="https://wa.me/5511980444352">
+            Andrea: +55 11 98044-4352
           </a>
-          <a className="hover:text-gold" href="https://wa.me/559980444352">
-            Airton: +55 99 8044-4352
+          <a className="hover:text-gold" href="https://wa.me/5511977760288">
+            Airton: +55 11 97776-0288
           </a>
         </div>
       </div>
 
-      <div className="mx-auto flex max-w-7xl flex-col items-center justify-between px-4 py-4 md:flex-row md:items-center md:justify-evenly">
-        <div className="flex w-full items-center justify-between">
+      <div className="mx-auto flex max-w-7xl flex-col gap-4 items-center px-4 mt-10 md:flex-row md:items-center md:justify-evenly md:gap-10">
+        <div className="flex w-full items-start justify-between md:w-auto">
             <a
           className="flex items-center gap-3"
           href="#inicio"
@@ -43,6 +43,7 @@ function Navbar() {
             </span>
           </span>
         </a>
+        
         <button
           type="button"
           className="rounded p-2 text-2xl text-ivory hover:text-gold md:hidden"
@@ -54,14 +55,15 @@ function Navbar() {
           {menuOpen ? "×" : "☰"}
         </button>
         </div>
-        
+        <div>
 
+        </div>
         <nav
           id="menu-principal"
           aria-label="Navegação principal"
-          className={`${menuOpen ? "block" : "hidden"} mt-4 md:mt-0 md:block`}
+          className={`${menuOpen ? "block" : "hidden"} w-full md:block md:w-auto`}
         >
-          <ul className="flex flex-col gap-4 text-sm font-medium md:flex-row md:gap-8">
+          <ul className="flex flex-col items-center gap-4 text-sm font-medium md:flex-row md:justify-center md:gap-8">
             <li>
               <a
                 className="transition-colors hover:text-gold"
