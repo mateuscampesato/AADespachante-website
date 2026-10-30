@@ -14,6 +14,18 @@ const servicos = [
     {
         nome: "Renovação de CNH",
         descricao: "Apoio no processo de renovação da CNH."
+    },
+    {
+        nome: "Baixa e consulta de débitos",
+        descricao: "Ajudamos voce a identificar, analisar e quitar pendências fiscais de forma rápida e segura."
+    },
+    {
+        nome: "Especialistas em Defesa de Suspensão e Cassação de CNH",
+        descricao: "Protegemos o seu direito de dirigir de forma rápida, legal e totalmente sem burocracia."
+    },
+    {
+        nome:"Especialistas em Isenção PCD e Regularização de CNH Especial",
+        descricao:"Facilitamos a compra do seu veículo zero quilômetro com até 30% de desconto. Cuidamos de todo o processo burocrático para a obtenção de isenções."
     }
 ]
 
