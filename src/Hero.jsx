@@ -35,7 +35,7 @@ function Hero () {
 
                 <div className="mx-auto rounded-full border border-gold/70 bg-ivory p-5 shadow-xl">
                     <img 
-                        src="/images/logo-airton-andrea.png" 
+                        src="/images/logo-airton-andrea1-preview.png" 
                         alt="Logo Airton Vieira & Andrea Pedroso Despachante" 
                         className="h-52 w-52 object-contain sm:h-64 sm:w-64"
                     />

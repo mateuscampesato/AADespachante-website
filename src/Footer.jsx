@@ -5,9 +5,9 @@ function Footer() {
         <div>
           <div className="flex items-center gap-3">
             <img
-              src="/images/logo-airton-andrea.png"
+              src="/images/logo-airton-andrea1-preview.png"
               alt=""
-              className="h-14 w-14 object-contain"
+              className="h-14 w-14 p-1 rounded-full object-contain bg-white"
             />
             <p className="font-semibold">Airton Vieira & Andrea Pedroso</p>
           </div>

@@ -30,9 +30,9 @@ function Navbar() {
           aria-label="Ir para o inicio"
         >
           <img
-            src="/images/logo-airton-andrea.png"
+            src="/images/logo-airton-andrea1-preview.png"
             alt="Airton Vieira & Andrea Pedroso Despachante"
-            className="h-16 w-16 shrink-0 object-contain"
+            className="h-16 w-16 p-1 shrink-0 object-contain rounded-full bg-white"
           />
           <span className="leading-tight">
             <span className="block font-semibold">
