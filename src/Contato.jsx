@@ -9,7 +9,7 @@ function Contato() {
             Entre em contato para saber mais sobre nossos serviços e como
             podemos ajudar.
           </p>
-          <a href="https://wa.me/+559980444352"
+          <a href="https://wa.me/+5511980444352"
           target="_blank"
           rel="noreferrer"
           className="mt-8 inline-flex items-center justify-center gap-3 rounded-lg bg-gold px-6 py-3 font-semibold text-night transition-colors hover:bg-navy hover:text-ivory"
