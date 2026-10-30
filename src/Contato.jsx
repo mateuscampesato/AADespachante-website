@@ -17,7 +17,7 @@ function Contato() {
             <img
               src="/images/WA-logo.png"
               alt="Fale com a nossa equipe pelo WhatsApp."
-              className="h-5 w-5 object-contain rounded-2xl"
+              className="h-7 w-7 object-contain rounded-2xl"
             />
             Fale pelo WhatsApp
           </a>
