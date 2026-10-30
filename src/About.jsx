@@ -1,7 +1,7 @@
 function About() {
   return (
     <section id="sobre" className="bg-ivory text-night">
-      <div className="mx-auto grid max-w-7xl gap-10 px-4 py-16 sm:py-20 md:grid-cols-[1.2fr_0.8fr] md:items-center">
+      <div className="mx-auto grid mx-w-7xl gap-10 px-4 py-16 sm:py-20 md:grid-cols-[1.2fr_0.8fr] md:items-center">
         <div>
           <p className="text-sm font-semibold uppercase tracking-widest text-navy">
             Sobre nós
@@ -10,11 +10,11 @@ function About() {
             Airton Vieira & Andrea Pedroso
           </h2>
           <p className="mt-6 mx-w-2xl leading-7 text-night/75">
-            A Airton Vieira & Andrea Pedroso Despachante oferece serviços de despachante em São Caetano do Sul, SP. Ajudamos com
+            A Airton Vieira & Andrea Pedroso Despachante oferece serviços de despachante desde 1974 em São Caetano do Sul, SP. Ajudamos com
             serviços de documentação veicular, incluindo licenciamento,
             transferência, primeiro emplacamento e renovação de CNH.
           </p>
-          <p className="mt-4 max-w-2xl leading-7 text-night/75">
+          <p className="mt-4 mx-w-2xl leading-7 text-night/75">
             Fale com nossa equipe para saber qual serviço atende à sua
             necessidade.
           </p>
