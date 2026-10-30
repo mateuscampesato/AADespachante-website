@@ -2,11 +2,7 @@ function Business () {
     return (
         <section id="localizacao" className="bg-white px-4 py-16 text-night">
             <div className="mx-auto max-w-7xl">
-                <p className="text-sm font-semibold uppercase tracking-widest text-gold">
-                    Airton Vieira & Andrea Pedroso
-                </p>
-
-                <h2 className="mt-3 max-w-3xl font-bold">
+                <h2 className="text-sm font-semibold uppercase tracking-widest text-gold">
                     Localização e avaliações
                 </h2>
 
