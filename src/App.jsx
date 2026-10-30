@@ -4,7 +4,7 @@ import Hero from "./Hero"
 import About from "./About"
 import Servicos from "./Serviços"
 import Contato from "./Contato"
-import Business from "./business"
+import Business from "./Business"
 
 export default function App() {
   // Guided build: add one section at a time, starting with the page structure.

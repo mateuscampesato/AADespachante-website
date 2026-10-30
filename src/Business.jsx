@@ -1,4 +1,4 @@
-export default function Business () {
+function Business () {
     return (
         <section id="localizacao" className="bg-white px-4 py-16 text-night">
             <div className="mx-auto max-w-7xl">
@@ -41,3 +41,4 @@ export default function Business () {
         </section>
     )
 }
+export default Business;
