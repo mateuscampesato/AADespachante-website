@@ -4,7 +4,7 @@ function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
     <header className="bg-navy text-ivory shadow-md">
-      <div className="hidden sm:block border-b border-white/15">
+      <div className="sm:block border-b border-white/15">
         <div className="mx-auto hidden max-w-7xl gap-2 px-4 py-4 text-sm sm:flex sm:items-center sm:justify-between">
           <a
             href="mailto:andreapedroso@gmail.com"
